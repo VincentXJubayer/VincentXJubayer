@@ -17,35 +17,46 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-Jubayer+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.Jubayer+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-## My Github Stats:
+# Hi there, I'm JUBAYER! 👋
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMMAD-JUBAYER&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad Nayan GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMAD-NAYAN&theme=algolia" alt="MOHAMMAD-JUBAYER" />
-</p>
+## About Me
+I'm a passionate developer with a keen interest in software development and open-source contributions. I love to explore new technologies and continuously improve my skills.
+
+## 🔭 Current Projects
+- **Project 1**: Brief description of your project 1.
+- **Project 2**: Brief description of your project 2.
+- **Project 3**: Brief description of your project 3.
+
+## 🌱 Learning & Interests
+- Currently learning: [Technology or Tool you're learning]
+- Areas of interest: [Your areas of interest]
+
+## 💬 Ask Me About
+- [Topic 1]
+- [Topic 2]
+- [Topic 3]
+
+## 📫 How to Reach Me
+- Email: [jubayer.xhmed.reham@gmail.com]
+- LinkedIn: [https://www.facebook.com/www.xnxx.chrome?mibextid=ZbWKwL]
+- Twitter: [?]
+
+## ⚡ Fun Fact
+- [A fun fact about yourself]
+
+## 📊 GitHub Stats
+![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubayer225253&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![Jubayer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jubayer225253&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.facebook.com/www.xnxx.chrome?mibextid=ZbWKwL])
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)]([https/www.twitter.com/jubayer.yt])
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
-
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMAD-JUBAYER&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/MOHAMMAD-NAYAN"><img alt="Check out MOHAMMAD-JUBAYER&apos;s profile on stardev.io" src="https://stardev.io/developers/MOHAMMAD-JUBAYER/badge/languages/global.svg" /></a>
-
----
-
-### Top Repositories
-
-
-<a href="https://github.com/MOHAMMAD-NAYAN/Nayan-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-JUBAYER&repo=Nayan-Bot&theme=algolia" />
-</a>
-<a href="https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-JUBAYER&repo=nayan-media-downloader&theme=algolia" />
-</a>
+**Note**: Feel free to customize the content and add more sections as per your preference.
