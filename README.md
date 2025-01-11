@@ -42,13 +42,28 @@ Here are some ideas to get you started:
 
 <br><br>
 
+## 📶 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-11&langs_count=8&theme=react&bg_color=151515" />
-</p>
-<p align="center">
-<a href="https://github.com/jubayer225253"><img alt="Jubayer ahmed's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=jubayer-11&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer-11&theme=black-ice"
-    alt="SadmanAnik"/></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ntkhang03">
+  <br>
+  <br>
+  
+  <a href="https://github.com/ntkhang03">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhang03&theme=blue-green" style="margin-top: 10px;"/>
+  </a>
+  <br>
+  <br>
+  
+  <a href="https://github.com/ntkhang03">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntkhang03&show_icons=true&theme=github_dark&line_height=27" alt="NTKhang's github stats" style="margin-top: 10px;"/>
+  </a>
+  <br>
+  <br>
 
-<br/>
+  <a href="https://github.com/fb-chat-api/fb-chat-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" style="margin-top: 10px;"/>
+  </a>
+  <a href="https://github.com/ntkhang03/Goat-Bot">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
+  </a>
+</p>
