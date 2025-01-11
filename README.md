@@ -60,10 +60,10 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-  <a href="https://github.com/fb-chat-api/fb-chat-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" style="margin-top: 10px;"/>
+  <a href="https://github.com/Jubayer225253/JUB4Y3R">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JUB4Y3R&repo=JUB4Y3R&theme=github_dark" style="margin-top: 10px;"/>
   </a>
-  <a href="https://github.com/ntkhang03/Goat-Bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
+  <a href="https://github.com/Jubayer225253/JUB4Y3R">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=JUB4Y3R&theme=github_dark" style="margin-top: 10px;"/>
   </a>
 </p>
