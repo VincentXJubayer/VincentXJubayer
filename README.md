@@ -60,7 +60,7 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/VincentXJubayer/YOUR-REPO">
+  <a href="https://github.com/VincentXJubayer/Jubayer-Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentXJubayer&repo=YOUR-REPO&theme=radical" />
   </a>
 </p>
