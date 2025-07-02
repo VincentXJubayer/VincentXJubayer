@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUB4Y3R&show_icons=true&theme=github_dark&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api username=VincentXJubayer&show_icons=true&theme=github_dark&line_height=27" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUB4Y3R&layout=compact&theme=blue-green" />
   <br><br>
@@ -58,13 +58,13 @@
 ### 📌 Pinned Repositories:
 
 <p align="center">
-  <a href="https://github.com/Jubayer225253/JUB4Y3R">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JUB4Y3R&repo=JUB4Y3R&theme=github_dark" />
+  <a href="https://github.com/VincentXJubayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentXJubayer&repo=VincentXJubayer&theme=github_dark" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JUB4Y3R" alt="Visitor Count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VincentXJubayer" alt="Visitor Count"/>
 </p>
