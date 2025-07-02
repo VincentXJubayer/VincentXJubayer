@@ -10,6 +10,11 @@
 <h1 align="center">Hi 👋, I'm VincentXJubayer</h1>
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
+<!-- 🔽 SMALL GIF BELOW NAME -->
+<p align="center">
+  <img src="https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" width="60%" alt="mini-banner" />
+</p>
+
 ---
 
 ### 🔥 About Me
