@@ -1,10 +1,4 @@
 <!-- VincentXJubayer's GitHub Profile README -->
-
-<!-- 🔥 TOP BANNER -->
-<p align="center">
-  <img src="https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" width="100%" alt="top-banner" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF8C&center=true&vCenter=true&width=440&height=60&lines=Hello+I'm+VincentXJubayer+🤝;Welcome+to+my+GitHub+World!+🌍;Explore+my+codes+%26+projects+🚀)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm VincentXJubayer</h1>
