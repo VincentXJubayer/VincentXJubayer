@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/VincentXJubayer/Jubayer-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentXJubayer&repo=YOUR-REPO&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentXJubayer&repo=VincentXJubaye&theme=radical" />
   </a>
 </p>
 
