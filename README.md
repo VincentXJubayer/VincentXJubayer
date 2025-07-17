@@ -5,6 +5,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://readme-typing-svg.demolab.com/?lines=JUBAYER&center=true&width=600&height=100&color=F700FF&size=60&font=Fira+Code&pause=1000" alt="JUBAYER colorful typing" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
 <!-- 🔽 SMALL GIF BELOW NAME -->
