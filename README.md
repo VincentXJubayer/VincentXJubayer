@@ -1,14 +1,7 @@
 <!-- VincentXJubayer's GitHub Profile README -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF8C&center=true&vCenter=true&width=440&height=60&lines=Hello+I'm+VincentXJubayer+🤝;Welcome+to+my+GitHub+World!+🌍;Explore+my+codes+%26+projects+🚀)](https://git.io/typing-svg)
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=JUBAYER-AHMED;Full-Stack+Developer;Open+Source+Lover;Node.js+%7C+React+%7C+AI+Bot+Developer&center=true&width=500&height=50&color=00FFFF&vCenter=true&size=30" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://github.com/VincentXJubayer">
-    <img src="https://img.shields.io/github/followers/VincentXJubayer?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=JUBAYER&center=true&width=600&height=100&color=F700FF&size=60&font=Fira+Code&pause=1000" alt="JUBAYER colorful typing" />
 </p>
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
