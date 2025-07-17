@@ -1,6 +1,8 @@
-<!-- VincentXJubayer's GitHub Profile README -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF8C&center=true&vCenter=true&width=440&height=60&lines=Hello+I'm+VincentXJubayer+🤝;Welcome+to+my+GitHub+World!+🌍;Explore+my+codes+%26+projects+🚀)](https://git.io/typing-svg)
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://readme-typing-svg.demolab.com/?lines=JUBAYER&center=true&width=600&height=100&color=F700FF&size=60&font=Fira+Code&pause=1000" alt="JUBAYER colorful typing" />
 </p>
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from Bangladesh 🇧🇩</h3>
@@ -10,7 +12,7 @@
   <img src="https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" width="60%" alt="mini-banner" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔥 About Me
 
@@ -20,7 +22,7 @@
 - 📫 How to reach me: **jubayer.xhmed.reham@gmail.com**
 - ⚡ Fun fact: I can debug your broken coffee machine ☕ + 💻
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Connect With Me
 
@@ -33,7 +35,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧰 Tech Stack
 
@@ -53,7 +55,7 @@
   <img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif" width="80%" alt="middle-banner" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 
@@ -65,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentXJubayer&layout=compact&theme=radical" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📌 Pinned Projects
 
@@ -75,7 +77,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VincentXJubayer.VincentXJubayer" alt="visitor badge"/>
