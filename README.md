@@ -1,7 +1,8 @@
 <!-- VincentXJubayer's GitHub Profile README -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF8C&center=true&vCenter=true&width=440&height=60&lines=Hello+I'm+VincentXJubayer+🤝;Welcome+to+my+GitHub+World!+🌍;Explore+my+codes+%26+projects+🚀)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm VincentXJubayer</h1>
+[![Follow on GitHub](https://img.shields.io/github/followers/VincentXJubayer?label=Follow&style=social)](https://github.com/VincentXJubayer)
+
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
 <!-- 🔽 SMALL GIF BELOW NAME -->
